@@ -1,7 +1,7 @@
-(* Compile and Run:
-	$ ocamlc BoundedCheck.ml property.ml
-	$ ./a.out 
-	OK, passed 100 tests. *)
+(* Copyright (C) 2010 Le Nguyen The Dat       
+   University of Oxford                        
+   Computer Science Laboratory                 	
+   Contact email: thedat.lenguyen@gmail.com *)
 
 (* =========================== import LIST ======================= *)
 

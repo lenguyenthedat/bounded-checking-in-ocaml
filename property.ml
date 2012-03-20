@@ -1,3 +1,8 @@
+(* Copyright (C) 2010 Le Nguyen The Dat       
+   University of Oxford                        
+   Computer Science Laboratory                 	
+   Contact email: thedat.lenguyen@gmail.com *)
+
 open BoundedCheck
 
 (* -------------integer--------------------- *)
