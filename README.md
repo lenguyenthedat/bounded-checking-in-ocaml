@@ -1,3 +1,5 @@
+Introduction:
+------------
 About Haskell's QuickCheck Library: http://www.haskell.org/haskellwiki/Introduction_to_QuickCheck
 
 Installation and Usage: 
